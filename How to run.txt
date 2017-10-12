@@ -1,0 +1,11 @@
+-- Make sure the following packages are installed in your system:
+   1) Selenium
+   2) pandas
+
+-- Download Chromedriver.exe from the link below :
+https://drive.google.com/file/d/0B0ZDQk3Hh_djNHp3RU9peUxBOWc/view?usp=drive_web
+or you can download the latest version of the same from the internet
+
+-- Update the path of the chromedriver in the Sample Usage.py file
+
+-- Update the path of the expedia_data_extractor.py file in the Sample Usage.py file 
